@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+/* styles.css */
+
+body {
+    background-color: yellow;
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+}
+
+#f1 {
+    color: green;
+}
+
+#f2 {
+    color: red;
+}
